@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tylerisback
+- 👋 Hi, I’m Emre
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python, Julia, versions of SQL
 - 🤝 I’m looking to collaborate on my projects and kaggle competitions
